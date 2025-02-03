@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "9f71bb0f6a2609df",
+    "id": "2ec098062d40b8fe",
     "type": "split",
     "children": [
       {
-        "id": "715bbf4645d3859f",
+        "id": "0701ac6ddfe1a105",
         "type": "tabs",
         "children": [
           {
-            "id": "1ffa137563efc468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Спидран/План по Kotlin, Python, Csharp, C++, Go.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "План по Kotlin, Python, Csharp, C++, Go"
-            }
-          },
-          {
-            "id": "a56620ddfe87dda4",
+            "id": "aa3771a63b0c133e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,22 +21,21 @@
               "title": "Docker & Kubernetes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "94116375ae8e43f7",
+    "id": "2cd70cd9637c66b6",
     "type": "split",
     "children": [
       {
-        "id": "9ce3dfd032af55c2",
+        "id": "9a0baf8ae0b8fd1a",
         "type": "tabs",
         "children": [
           {
-            "id": "cda496d55e90acbd",
+            "id": "254dbe97d4b043e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "bc018442785712c6",
+            "id": "cf7dcf511dfacc8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "af1363fd71f6094c",
+            "id": "39e4201a2c444aef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 300
   },
   "right": {
-    "id": "52d552ff8792b531",
+    "id": "dd029888ca245a2c",
     "type": "split",
     "children": [
       {
-        "id": "0b6be65301a40ec2",
+        "id": "92d1f27339eda73a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4589cdb6f9ad26",
+            "id": "b398809eb0759de0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,7 +108,7 @@
             }
           },
           {
-            "id": "82346467c9580c48",
+            "id": "de0180ecd7c944b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -137,32 +122,36 @@
             }
           },
           {
-            "id": "29a20f6e51b3a1b3",
+            "id": "4e58a4f3e56954db",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "7b1fe71b2b44f225",
+            "id": "2cdc8624e7d0b100",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Грызи инфу/Docker & Kubernetes.md"
+                "file": "Грызи инфу/Docker & Kubernetes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Структура Docker & Kubernetes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,43 +169,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a56620ddfe87dda4",
-  "lastOpenFiles": [
-    "Общее/Глобал таски.md",
-    "Backend/Бэк.md",
-    "Pet-проекты/Чота на питончике.md",
-    "Грызи инфу/Docker & Kubernetes.md",
-    "Грызи инфу/Общая полезная инфа (заметки).md",
-    "Pasted image 20250130045755.png",
-    "Pasted image 20250130045114.png",
-    "Pasted image 20250130044830.png",
-    "Pasted image 20250130044630.png",
-    "Pasted image 20250130044541.png",
-    "Pasted image 20250130044522.png",
-    "Грызи инфу/Работа с API.md",
-    "Pasted image 20250130044055.png",
-    "Pasted image 20250130044020.png",
-    "img/Pasted image 20250130043734.png",
-    "img/Pasted image 20250130044006.png",
-    "Грызи инфу/БД.md",
-    "Грызи инфу/Принципы ООП.md",
-    "img",
-    "Грызи инфу/Фреймворки.md",
-    "Pet-проекты",
-    "C++/Road Map.md",
-    "C++",
-    "Спидран/План по Kotlin, Python, Csharp, C++, Go.md",
-    "Backend",
-    "Грызи инфу/И.md",
-    "Web-разработка/HTML & CSS.md",
-    "Excalidraw/Drawing 2024-06-30 04.30.25.excalidraw.md",
-    "Web-разработка",
-    "Общее",
-    "ООП/Без названия.canvas",
-    "Грызи инфу",
-    "Спидран",
-    "Excalidraw",
-    "Следуй и завершай",
-    "Без названия 1.md"
-  ]
+  "active": "aa3771a63b0c133e",
+  "lastOpenFiles": []
 }
