@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aace8c255105f66b",
+        "id": "1346271d6fb53b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "2555d90d1ab5d1a9",
+            "id": "5f869c7cd91b5a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,13 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2555d90d1ab5d1a9",
+  "active": "5f869c7cd91b5a94",
   "lastOpenFiles": [
+    "Грызи инфу/Docker & Kubernetes.md",
+    "Грызи инфу/БД.md",
+    "Грызи инфу/Общая полезная инфа (заметки).md",
     "Спидран/План по Kotlin, Python, Csharp, C++, Go.md",
     "Backend/Бэк.md",
     "Pet-проекты/Чота на питончике.md",
-    "Грызи инфу/Docker & Kubernetes.md",
-    "Грызи инфу/Общая полезная инфа (заметки).md",
     "Pasted image 20250130045755.png",
     "Pasted image 20250130045114.png",
     "Pasted image 20250130044830.png",
@@ -184,7 +185,6 @@
     "img/Pasted image 20250130043734.png",
     "img/Pasted image 20250130044006.png",
     "Общее/Глобал таски.md",
-    "Грызи инфу/БД.md",
     "Грызи инфу/Принципы ООП.md",
     "img",
     "Грызи инфу/Фреймворки.md",
