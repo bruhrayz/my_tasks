@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0701ac6ddfe1a105",
+        "id": "440fc937aff1620f",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3771a63b0c133e",
+            "id": "69b5d900ce3da637",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,9 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa3771a63b0c133e",
+  "active": "69b5d900ce3da637",
   "lastOpenFiles": [
-    "Грызи инфу/БД.md",
-    "Грызи инфу/Docker & Kubernetes.md"
+    "Грызи инфу/Docker & Kubernetes.md",
+    "Грызи инфу/БД.md"
   ]
 }
